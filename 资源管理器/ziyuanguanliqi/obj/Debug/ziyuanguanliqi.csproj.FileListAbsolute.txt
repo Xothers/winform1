@@ -1,0 +1,9 @@
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\bin\Debug\ziyuanguanliqi.exe.config
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\bin\Debug\ziyuanguanliqi.exe
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\bin\Debug\ziyuanguanliqi.pdb
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.csprojResolveAssemblyReference.cache
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.Form1.resources
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.Properties.Resources.resources
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.csproj.GenerateResource.Cache
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.exe
+c:\users\fisica\documents\visual studio 2012\Projects\ziyuanguanliqi\ziyuanguanliqi\obj\Debug\ziyuanguanliqi.pdb

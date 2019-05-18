@@ -1,0 +1,9 @@
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\bin\Debug\WordSegment.exe.config
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\bin\Debug\WordSegment.exe
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\bin\Debug\WordSegment.pdb
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.csprojResolveAssemblyReference.cache
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.Form1.resources
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.Properties.Resources.resources
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.csproj.GenerateResource.Cache
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.exe
+c:\users\fisica\documents\visual studio 2012\Projects\WordSegment\WordSegment\obj\Debug\WordSegment.pdb

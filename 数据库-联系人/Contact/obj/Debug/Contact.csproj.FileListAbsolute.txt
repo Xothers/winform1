@@ -1,0 +1,9 @@
+c:\users\fisica\documents\visual studio 2012\Projects\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.Form1.resources
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\Contact\Contact\obj\Debug\Contact.pdb

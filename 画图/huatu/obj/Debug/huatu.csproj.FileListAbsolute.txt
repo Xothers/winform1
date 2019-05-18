@@ -1,0 +1,9 @@
+c:\users\fisica\documents\visual studio 2012\Projects\huatu\huatu\bin\Debug\huatu.exe.config
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\bin\Debug\huatu.exe
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\bin\Debug\huatu.pdb
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.csprojResolveAssemblyReference.cache
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.Form1.resources
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.Properties.Resources.resources
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.csproj.GenerateResource.Cache
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.exe
+C:\Users\Fisica\Documents\Visual Studio 2012\Projects\huatu\huatu\obj\Debug\huatu.pdb
